@@ -15,3 +15,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# lineleap_test" 
+
+The application uses the latest flutter and dart framework. All the details about the versions should be available in pubsec.yaml file.
+
+The web Page Interface is designed in large screen. So it may not be as responsive in small screen as I would like it to be.
+fonts and images are in assets file as required by the project.
+
+The web page was designed using flutter framework in Android Studio in a windows environment.
